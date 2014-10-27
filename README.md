@@ -1,4 +1,6 @@
 Monit-Tab-Completion
 ====================
 
-Tab completion for the Monit Process Monitor
+Bash tab completion for the Monit Process Monitor
+
+Simply drop in /etc/bash_completion.d and start tab completing!
